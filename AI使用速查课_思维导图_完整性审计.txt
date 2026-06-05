@@ -1,0 +1,95 @@
+XMind 完整性审计
+source = D:\code\ai_ke\AI使用速查课_思维导图.xmind
+
+[主题树]
+topic_count = 120
+unique_topic_ids = 120
+duplicate_topic_ids = 0
+attached_topics = 113
+detached_topics = 6
+
+[连接线]
+relationship_count = 8
+relationship_invalid_endpoint_count = 0
+
+[内容特征键计数]
+attributedTitle = 7
+branch = 4
+children = 54
+customWidth = 1
+position = 8
+relationships = 1
+style = 28
+
+[全部 JSON 键计数]
+0 = 13
+1 = 12
+alignment-by-level = 6
+arrangeableLayerOrder = 1
+arrow-begin-class = 1
+arrow-end-class = 7
+attached = 54
+attributedTitle = 7
+border-line-color = 20
+border-line-pattern = 8
+border-line-width = 10
+boundary = 1
+branch = 4
+calloutTopic = 1
+centralTopic = 2
+children = 54
+class = 2
+color-list = 1
+colorThemeId = 1
+content = 1
+controlPoints = 8
+customWidth = 1
+detached = 1
+end1Id = 8
+end2Id = 8
+expiredTopic = 1
+extensions = 1
+fill-pattern = 15
+floatingTopic = 2
+fo:color = 23
+fo:font-family = 9
+fo:font-size = 10
+fo:font-style = 9
+fo:font-weight = 39
+fo:text-align = 9
+fo:text-decoration = 10
+fo:text-transform = 9
+id = 171
+importantTopic = 1
+line-class = 6
+line-color = 13
+line-pattern = 9
+line-tapered = 1
+line-width = 9
+lineEndPoints = 6
+mainTopic = 2
+map = 1
+minorTopic = 1
+position = 8
+properties = 42
+provider = 1
+relationship = 1
+relationships = 1
+revisionId = 1
+rootTopic = 1
+shape-class = 9
+skeletonThemeId = 1
+structureClass = 4
+style = 28
+subTopic = 1
+summary = 1
+summaryTopic = 1
+svg:fill = 16
+text = 21
+theme = 1
+title = 122
+topicOverlapping = 1
+x = 33
+y = 33
+zone = 1
+zones = 1
